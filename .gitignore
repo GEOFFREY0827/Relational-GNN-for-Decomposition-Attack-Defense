@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+runs/
+*.pt
+.pytest_cache/
+.venv/
+.DS_Store
+data/decomposedharm_qa/
+data/benign_injection_*/
+wandb/

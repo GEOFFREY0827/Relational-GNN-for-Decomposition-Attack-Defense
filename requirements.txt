@@ -1,0 +1,7 @@
+torch>=2.1
+sentence-transformers>=2.7
+numpy
+pytest
+datasets>=2.19
+wandb>=0.17
+accelerate==0.34.2
